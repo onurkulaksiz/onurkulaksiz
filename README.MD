@@ -2,6 +2,7 @@
 <h3 align="center">Data Scientist || Nlp Developer || Devops</h3>
 
 - 👯 [Spell_Checker](https://github.com/onurkulaksiz/Spell_Checker)
+- 👯 [Cryptocurrency-Price-Prediction-using-LSTM](https://github.com/onurkulaksiz/Cryptocurrency-Price-Prediction-using-LSTM)
 
 - 💬 Ask me about **Python, Data Science, Natural Language Processing**
 
