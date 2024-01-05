@@ -4,7 +4,7 @@
 - 👯 [Spell_Checker](https://github.com/onurkulaksiz/Spell_Checker)
 - 👯 [Cryptocurrency-Price-Prediction-using-LSTM](https://github.com/onurkulaksiz/Cryptocurrency-Price-Prediction-using-LSTM)
 
-- 💬 Ask me about **Python, Data Science, Natural Language Processing**
+- 💬 Ask me about  **Python, Data Science, Natural Language Processing**
 
 - 📫 How to reach me **onur.kulaksz11@hotmail.com**
 
