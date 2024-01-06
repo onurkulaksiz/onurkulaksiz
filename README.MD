@@ -13,7 +13,7 @@
 <a href="https://twitter.com/@onurklksz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@onurklksz" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/onur-cemail-kulaks%C4%B1z112/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onur cemail kulaksız" height="30" width="40" /></a>
 <a href="https://kaggle.com/onur kulaksız" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="onur kulaksız" height="30" width="40" /></a>
-<a href="https://instagram.com/onur.kulaksz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onur.kulaksz" height="30" width="40" /></a>
+<a href="https://www.instagram.com/onur.kulaksz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onur.kulaksz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
